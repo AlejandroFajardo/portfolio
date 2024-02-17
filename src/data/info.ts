@@ -8,7 +8,7 @@ export const info = {
   experience: [
     {
       name: "CONCEPTO DISEÑO Y PUBLICIDAD",
-      location: "Santander, Colombia",
+      location: "Barbosa, Colombia",
       startDate: "NOV 2022",
       endDate: "APR 2023",
       description: [
@@ -32,7 +32,19 @@ export const info = {
     },
 
     {
-      name: "MISION TIC 2022",
+      name: "TAXI YA / UPTC",
+      location: "Tunja, Colombia",
+      startDate: "DEC 2021",
+      endDate: "APR 2022",
+      description: [
+        "Academic project developed for the subject 'field research' where, with the help of the company 'taxi ya', a web application was developed where monitoring of taxi circulation documents and shift management was carried out.",
+        "This project was developed with a group of 6 more students, an engineer from the company and the tutoring of an engineer from the university.",
+        "Handlebars, Express, MongoDB, Boostrap"
+      ],
+    },
+
+    {
+      name: "Bootcamp MISION TIC 2022",
       location: "Colombia",
       startDate: "MAR 2021",
       endDate: "DEC 2021",
@@ -110,15 +122,15 @@ export const info = {
       title: "Hispanic timezones",
       isFeatured: true,
       thumbnail: "/assets/images/time.png",
-      githubUrl: "https://github.com/AlejandroFajardo/CRUDFirebase",
-      liveUrl: "https://alejandrofajardo.github.io/CRUDFirebase/",
+      githubUrl: "https://github.com/AlejandroFajardo/hispanic-time ",
+      liveUrl: "https://hispanic-time.netlify.app/",
     },
     {
       title: "Tasks application",
       isFeatured: true,
       thumbnail: "/assets/images/task.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/AlejandroFajardo/CRUDFirebase",
+      liveUrl: "https://alejandrofajardo.github.io/CRUDFirebase/",
     },
     {
       title: "Mision TIC 2022 project",
